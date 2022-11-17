@@ -32,17 +32,17 @@ export default [
 {
     resource: audio1,
     type: "audio",
-    title: "Поют птицы",
+    title: "Музыка",
   },
   {
     resource: audio2,
     type: "audio",
-    title: "Ручей в ущелье",
+    title: "Сигнал",
   },
   {
     resource: audio3,
     type: "audio",
-    title: "Закат в лесу",
+    title: "Будильник",
   },
   {
     resource: video1,
